@@ -1,0 +1,5 @@
+My name is Glory.
+I am learning Python.
+I am a cybersecurity student.
+
+I want to become good at cybersecurity.
